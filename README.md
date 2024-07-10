@@ -1,5 +1,5 @@
 [![Static Badge](https://img.shields.io/badge/Interactive-OSPO_Definition-pink)](https://ospoglossary.todogroup.org/ospo-definition/)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY SA 4.0](https://img.shields.io/badge/License-CC_BY_SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/todogroup/ospology/discussions)
 
 # Open Source Program Office (OSPO) Definition and Guide
@@ -112,18 +112,21 @@ https://github.com/todogroup/ospo101
 ## OSPO Examples
 
 * [Aiven](https://aiven.io/blog/open-source-program-office-at-aiven-a-year-later)
-* [Autodesk](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/autodesk.md)
-* [Capital One](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/capitalone.md)
-* [Comcast](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/comcast.md)
-* [Meta](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/facebook.md)
-* [Microsoft](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/microsoft.md)
+* [Autodesk](https://github.com/todogroup/todogroup.org/blob/main/content/en/case-studies/autodesk.md)
+* [Capital One](https://github.com/todogroup/todogroup.org/blob/master/content/en/case-studies/capitalone.md)
+* [Comcast](https://github.com/todogroup/todogroup.org/blob/master/content/en/case-studies/comcast.md)
+* [Dropbox](https://github.com/todogroup/todogroup.org/blob/main/content/en/case-studies/dropbox.md)
+* [Meta](https://github.com/todogroup/todogroup.org/blob/master/content/case-studies/facebook.md)
+* [Microsoft](https://github.com/todogroup/todogroup.org/blob/master/content/en/case-studies/microsoft.md)
+* [National Instruments](https://github.com/todogroup/todogroup.org/blob/main/content/en/case-studies/ni.md)
+* [Oath](https://github.com/todogroup/todogroup.org/blob/main/content/en/case-studies/oath.md)
 * [Postman](https://dev.to/postman/how-postmans-building-their-open-source-program-office-ospo-hgf)
-* [Red Hat](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/redhat.md)
+* [Red Hat](https://github.com/todogroup/todogroup.org/blob/master/content/en/case-studies/redhat.md)
 * [RIT](https://todogroup.org/guides/casestudies/rit/)
-* [Salesforce](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/salesforce.md)
-* [SAP](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/sap.md)
+* [Salesforce](https://github.com/todogroup/todogroup.org/blob/master/content/en/case-studies/salesforce.md)
+* [SAP](https://github.com/todogroup/todogroup.org/blob/master/content/en/case-studies/sap.md)
 * [UC Santa Cruz](https://research.redhat.com/blog/article/building-a-university-ospo-bolstering-academic-research-through-open-source/)
-* [Uber](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/uber.md)
+* [Uber](https://github.com/todogroup/todogroup.org/blob/master/content/en/case-studies/uber.md)
 * [Yahoo](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/oath.md)
 
 Explore other OSPOs via the OSPO Landscape: https://landscape.todogroup.org/
